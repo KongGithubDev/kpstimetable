@@ -7,32 +7,36 @@
           "period": "1",
           "start_time": "08:30",
           "end_time": "09:20",
-          "subject": "ฟิสิกส์ (ว32204)",
-          "teacher": "จันทร์",
+          "subject": "ฟิสิกส์",
+          "code": "ว32204",
+          "teacher": "รุ่งฤดี",
           "roomname": "747"
         },
         {
           "period": "2",
           "start_time": "09:20",
           "end_time": "10:10",
-          "subject": "ฟิสิกส์ (ว32204)",
-          "teacher": "จันทร์",
+          "subject": "ฟิสิกส์",
+          "code": "ว32204",
+          "teacher": "รุ่งฤดี",
           "roomname": "747"
         },
         {
           "period": "3",
           "start_time": "10:20",
           "end_time": "11:10",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "ครูอัตราจ้าง(ม)",
+          "subject": "คณิตศาสตร์พื้นฐาน",
+          "code": "ค32102",
+          "teacher": "วัชราภรณ์",
           "roomname": "747"
         },
         {
           "period": "4",
           "start_time": "11:10",
           "end_time": "12:00",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "ครูอัตราจ้าง(ม)",
+          "subject": "คณิตศาสตร์พื้นฐาน",
+          "code": "ค32102",
+          "teacher": "วัชราภรณ์",
           "roomname": "747"
         },
         {
@@ -47,32 +51,36 @@
           "period": "6",
           "start_time": "13:00",
           "end_time": "13:50",
-          "subject": "ชีววิทยา (ว32103)",
-          "teacher": "ศิริกัญญา",
+          "subject": "สังคมศึกษา",
+          "code": "ส32103",
+          "teacher": "กันตินันท์",
           "roomname": "747"
         },
         {
           "period": "7",
           "start_time": "13:50",
           "end_time": "14:40",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "ครูอัตราจ้าง",
+          "subject": "อังกฤษ",
+          "code": "อ32102",
+          "teacher": "อรฉัตร",
           "roomname": "747"
         },
         {
           "period": "8",
           "start_time": "14:40",
           "end_time": "15:30",
-          "subject": "อังกฤษ (อ32266)",
-          "teacher": "กิตติมา",
+          "subject": "อังกฤษเพิ่มเติม",
+          "code": "อ32266",
+          "teacher": "กิตติโรจน์",
           "roomname": "747"
         },
         {
           "period": "9",
           "start_time": "15:30",
           "end_time": "16:20",
-          "subject": "ภาษาจีน",
-          "teacher": "พรสุดา",
+          "subject": "แนะแนว",
+          "code": "ก32907",
+          "teacher": "พรรวินท์",
           "roomname": "747"
         }
       ]
@@ -84,32 +92,36 @@
           "period": "1",
           "start_time": "08:30",
           "end_time": "09:20",
-          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "คณิตศาสตร์เพิ่มเติม",
+          "code": "ค32202",
+          "teacher": "วัชราภรณ์",
           "roomname": "747"
         },
         {
           "period": "2",
           "start_time": "09:20",
           "end_time": "10:10",
-          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "คณิตศาสตร์เพิ่มเติม",
+          "code": "ค32202",
+          "teacher": "วัชราภรณ์",
           "roomname": "747"
         },
         {
           "period": "3",
           "start_time": "10:20",
           "end_time": "11:10",
-          "subject": "ฟิสิกส์ (ว32204)",
-          "teacher": "จันทร์",
+          "subject": "ฟิสิกส์",
+          "code": "ว32204",
+          "teacher": "รุ่งฤดี",
           "roomname": "747"
         },
         {
           "period": "4",
           "start_time": "11:10",
           "end_time": "12:00",
-          "subject": "ฟิสิกส์ (ว32204)",
-          "teacher": "จันทร์",
+          "subject": "ฟิสิกส์",
+          "code": "ว32204",
+          "teacher": "รุ่งฤดี",
           "roomname": "747"
         },
         {
@@ -124,24 +136,27 @@
           "period": "6",
           "start_time": "13:00",
           "end_time": "13:50",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "ภาษาไทย",
+          "code": "ท32102",
+          "teacher": "ลลิตา",
           "roomname": "747"
         },
         {
           "period": "7",
           "start_time": "13:50",
           "end_time": "14:40",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "อังกฤษ",
+          "code": "อ32102",
+          "teacher": "อรฉัตร",
           "roomname": "747"
         },
         {
           "period": "8",
           "start_time": "14:40",
           "end_time": "15:30",
-          "subject": "คอมพิวเตอร์ (ว32102)",
-          "teacher": "ธิติภัทร",
+          "subject": "สุขศึกษา",
+          "code": "พ32102",
+          "teacher": "ธรรมศักดิ์",
           "roomname": "747"
         }
       ]
@@ -153,23 +168,26 @@
           "period": "1",
           "start_time": "08:30",
           "end_time": "09:20",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "อังกฤษ",
+          "code": "อ32102",
+          "teacher": "อรฉัตร",
           "roomname": "747"
         },
         {
           "period": "2",
           "start_time": "09:20",
           "end_time": "10:10",
-          "subject": "อังกฤษ (อ32266)",
-          "teacher": "กิตติมา",
+          "subject": "อังกฤษเพิ่มเติม",
+          "code": "อ32266",
+          "teacher": "กิตติโรจน์",
           "roomname": "747"
         },
         {
           "period": "3",
           "start_time": "10:20",
           "end_time": "11:10",
-          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "subject": "อังกฤษเพื่อการสื่อสาร",
+          "code": "อ32202",
           "teacher": "Joel",
           "roomname": "235"
         },
@@ -177,8 +195,9 @@
           "period": "4",
           "start_time": "11:10",
           "end_time": "12:00",
-          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
-          "teacher": "Joel",
+          "subject": "คณิตศาสตร์เพิ่มเติม",
+          "code": "ค32202",
+          "teacher": "วัชราภรณ์",
           "roomname": "747"
         },
         {
@@ -193,16 +212,18 @@
           "period": "6",
           "start_time": "13:00",
           "end_time": "13:50",
-          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "โครงงาน IS",
+          "code": "I32202",
+          "teacher": "สุกัญญา",
           "roomname": "747"
         },
         {
           "period": "7",
           "start_time": "13:50",
           "end_time": "14:40",
-          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "โครงงาน IS",
+          "code": "I32202",
+          "teacher": "สุกัญญา",
           "roomname": "747"
         },
         {
@@ -222,32 +243,36 @@
           "period": "1",
           "start_time": "08:30",
           "end_time": "09:20",
-          "subject": "เคมี (ว32244)",
-          "teacher": "พัชณีย์",
+          "subject": "เคมี",
+          "code": "ว32244",
+          "teacher": "พิสมัย",
           "roomname": "747"
         },
         {
           "period": "2",
           "start_time": "09:20",
           "end_time": "10:10",
-          "subject": "เคมี (ว32244)",
-          "teacher": "พัชณีย์",
+          "subject": "เคมี",
+          "code": "ว32244",
+          "teacher": "พิสมัย",
           "roomname": "747"
         },
         {
           "period": "3",
           "start_time": "10:20",
           "end_time": "11:10",
-          "subject": "ฟิสิกส์ (ว32102)",
-          "teacher": "อัจฉรา",
+          "subject": "ภาษาไทย",
+          "code": "ท32102",
+          "teacher": "ลลิตา",
           "roomname": "747"
         },
         {
           "period": "4",
           "start_time": "11:10",
           "end_time": "12:00",
-          "subject": "ชีววิทยา (ว32224)",
-          "teacher": "ญานามัย",
+          "subject": "ชีววิทยา",
+          "code": "ว32224",
+          "teacher": "ญานษา",
           "roomname": "747"
         },
         {
@@ -262,33 +287,37 @@
           "period": "6",
           "start_time": "13:00",
           "end_time": "13:50",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "อัจฉราภรณ์",
-          "roomname": "CT33"
+          "subject": "ศิลปะ",
+          "code": "ศ32102",
+          "teacher": "ธีรวัฒน์",
+          "roomname": "-"
         },
         {
           "period": "7",
           "start_time": "13:50",
           "end_time": "14:40",
-          "subject": "คณิตศาสตร์ (ค32102)",
-          "teacher": "อัจฉราภรณ์",
-          "roomname": "CT33"
+          "subject": "คอมพิวเตอร์",
+          "code": "ว32102",
+          "teacher": "สุรจิตร",
+          "roomname": "C733"
         },
         {
           "period": "8",
           "start_time": "14:40",
           "end_time": "15:30",
-          "subject": "คอมพิวเตอร์ (ว32086)",
-          "teacher": "ธิติภัทร",
-          "roomname": "CT24"
+          "subject": "คอมพิวเตอร์",
+          "code": "ว32086",
+          "teacher": "รัชนีพร",
+          "roomname": "C724"
         },
         {
           "period": "9",
           "start_time": "15:30",
           "end_time": "16:20",
-          "subject": "คอมพิวเตอร์ (ว32086)",
-          "teacher": "ธิติภัทร",
-          "roomname": "CT24"
+          "subject": "คอมพิวเตอร์",
+          "code": "ว32086",
+          "teacher": "รัชนีพร",
+          "roomname": "C724"
         }
       ]
     },
@@ -299,32 +328,35 @@
           "period": "1",
           "start_time": "08:30",
           "end_time": "09:20",
-          "subject": "ภาษาไทย",
-          "teacher": "5/13-15",
-          "roomname": "747"
+          "subject": "ภาษาสอง 5/13 - 15",
+          "teacher": "-",
+          "roomname": "-"
         },
         {
           "period": "2",
           "start_time": "09:20",
           "end_time": "10:10",
-          "subject": "เคมี (ว32244)",
-          "teacher": "พัชณีย์",
+          "subject": "เคมี",
+          "code": "ว32244",
+          "teacher": "พิสมัย",
           "roomname": "747"
         },
         {
           "period": "3",
           "start_time": "10:20",
           "end_time": "11:10",
-          "subject": "ชีววิทยา (ว32224)",
-          "teacher": "ญานามัย",
+          "subject": "ชีววิทยา",
+          "code": "ว32224",
+          "teacher": "ญานษา",
           "roomname": "125"
         },
         {
           "period": "4",
           "start_time": "11:10",
           "end_time": "12:00",
-          "subject": "ชีววิทยา (ว32224)",
-          "teacher": "ญานามัย",
+          "subject": "ชีววิทยา",
+          "code": "ว32224",
+          "teacher": "ญานษา",
           "roomname": "125"
         },
         {
@@ -339,25 +371,27 @@
           "period": "6",
           "start_time": "13:00",
           "end_time": "13:50",
-          "subject": "ชีววิทยาเพิ่มเติม (ว32104)",
-          "teacher": "ญานามัย",
+          "subject": "ประวัติศาสตร์",
+          "code": "ส32104",
+          "teacher": "เนติ",
           "roomname": "747"
         },
         {
           "period": "7",
           "start_time": "13:50",
           "end_time": "14:40",
-          "subject": "คณิตศาสตร์ (ค32103)",
-          "teacher": "อัจฉราภรณ์",
+          "subject": "สังคมศึกษา",
+          "code": "ส32103",
+          "teacher": "กันตินันท์",
           "roomname": "747"
         },
         {
           "period": "8",
           "start_time": "14:40",
           "end_time": "15:30",
-          "subject": "H.R.",
-          "teacher": "ครูอัจฉรา",
-          "roomname": "747"
+          "subject": "H.R. ต้านทุจริต",
+          "teacher": "-",
+          "roomname": "-"
         },
         {
           "period": "9",
