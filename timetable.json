@@ -2,390 +2,372 @@
   "schedule": [
     {
       "day": "Monday",
-      "period": "1",
-      "start_time": "08:30",
-      "end_time": "09:20",
-      "subject": "คณิตศาสตร์ (ค31202)",
-      "teacher": "ศริยา",
-      "roomname": "748"
-    },
-    {
-      "day": "Monday",
-      "period": "2",
-      "start_time": "09:20",
-      "end_time": "10:10",
-      "subject": "คณิตศาสตร์ (ค31202)",
-      "teacher": "ศริยา",
-      "roomname": "748"
-    },
-    {
-      "day": "Monday",
-      "period": "3",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "subject": "เคมี (ว31222)",
-      "teacher": "พัชณีย์",
-      "roomname": "748"
-    },
-    {
-      "day": "Monday",
-      "period": "4",
-      "start_time": "11:10",
-      "end_time": "12:00",
-      "subject": "อังกฤษ (อ31102)",
-      "teacher": "ภัทรา",
-      "roomname": "748"
-    },
-    {
-      "day": "Monday",
-      "period": "5",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "subject": "Lunch Break",
-      "teacher": "-",
-      "roomname": "โรงอาหาร"
-    },
-    {
-      "day": "Monday",
-      "period": "6",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "subject": "ฟิสิกส์ (ว31202)",
-      "teacher": "อรนุช",
-      "roomname": "748"
-    },
-    {
-      "day": "Monday",
-      "period": "7",
-      "start_time": "13:50",
-      "end_time": "14:40",
-      "subject": "ฟิสิกส์ (ว31202)",
-      "teacher": "อรนุช",
-      "roomname": "748"
-    },
-    {
-      "day": "Monday",
-      "period": "8",
-      "start_time": "14:40",
-      "end_time": "15:30",
-      "subject": "คอมพิวเตอร์ (ว31083)",
-      "teacher": "ธิติภัทร",
-      "roomname": "C724"
-    },
-    {
-      "day": "Monday",
-      "period": "9",
-      "start_time": "15:30",
-      "end_time": "16:20",
-      "subject": "คอมพิวเตอร์ (ว31083)",
-      "teacher": "ธิติภัทร",
-      "roomname": "C724"
+      "periods": [
+        {
+          "period": "1",
+          "start_time": "08:30",
+          "end_time": "09:20",
+          "subject": "ฟิสิกส์ (ว32204)",
+          "teacher": "จันทร์",
+          "roomname": "747"
+        },
+        {
+          "period": "2",
+          "start_time": "09:20",
+          "end_time": "10:10",
+          "subject": "ฟิสิกส์ (ว32204)",
+          "teacher": "จันทร์",
+          "roomname": "747"
+        },
+        {
+          "period": "3",
+          "start_time": "10:20",
+          "end_time": "11:10",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "ครูอัตราจ้าง(ม)",
+          "roomname": "747"
+        },
+        {
+          "period": "4",
+          "start_time": "11:10",
+          "end_time": "12:00",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "ครูอัตราจ้าง(ม)",
+          "roomname": "747"
+        },
+        {
+          "period": "5",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "subject": "พักกลางวัน",
+          "teacher": "-",
+          "roomname": "-"
+        },
+        {
+          "period": "6",
+          "start_time": "13:00",
+          "end_time": "13:50",
+          "subject": "ชีววิทยา (ว32103)",
+          "teacher": "ศิริกัญญา",
+          "roomname": "747"
+        },
+        {
+          "period": "7",
+          "start_time": "13:50",
+          "end_time": "14:40",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "ครูอัตราจ้าง",
+          "roomname": "747"
+        },
+        {
+          "period": "8",
+          "start_time": "14:40",
+          "end_time": "15:30",
+          "subject": "อังกฤษ (อ32266)",
+          "teacher": "กิตติมา",
+          "roomname": "747"
+        },
+        {
+          "period": "9",
+          "start_time": "15:30",
+          "end_time": "16:20",
+          "subject": "ภาษาจีน",
+          "teacher": "พรสุดา",
+          "roomname": "747"
+        }
+      ]
     },
     {
       "day": "Tuesday",
-      "period": "1",
-      "start_time": "08:30",
-      "end_time": "09:20",
-      "subject": "อังกฤษเพื่อการสื่อสาร (อ31202)",
-      "teacher": "Christopher",
-      "roomname": "235"
-    },
-    {
-      "day": "Tuesday",
-      "period": "2",
-      "start_time": "09:20",
-      "end_time": "10:10",
-      "subject": "ชีวะ (ว31104)",
-      "teacher": "ศศิธร",
-      "roomname": "C724"
-    },
-    {
-      "day": "Tuesday",
-      "period": "3",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "subject": "อังกฤษเสริม (อ31264)",
-      "teacher": "ครูอัตราจ้าง",
-      "roomname": "748"
-    },
-    {
-      "day": "Tuesday",
-      "period": "4",
-      "start_time": "11:10",
-      "end_time": "12:00",
-      "subject": "อังกฤษเสริม (อ31264)",
-      "teacher": "ครูอัตราจ้าง",
-      "roomname": "748"
-    },
-    {
-      "day": "Tuesday",
-      "period": "5",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "subject": "Lunch Break",
-      "teacher": "-",
-      "roomname": "โรงอาหาร"
-    },
-    {
-      "day": "Tuesday",
-      "period": "6",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "subject": "สังคม (ส31102)",
-      "teacher": "พิศพิศุทธ์",
-      "roomname": "748"
-    },
-    {
-      "day": "Tuesday",
-      "period": "7",
-      "start_time": "13:50",
-      "end_time": "14:40",
-      "subject": "อังกฤษ (อ31102)",
-      "teacher": "ภัทรา",
-      "roomname": "748"
-    },
-    {
-      "day": "Tuesday",
-      "period": "8",
-      "start_time": "14:40",
-      "end_time": "15:30",
-      "subject": "ภาษาไทย (ท31102)",
-      "teacher": "บัวสวรรค์",
-      "roomname": "748"
+      "periods": [
+        {
+          "period": "1",
+          "start_time": "08:30",
+          "end_time": "09:20",
+          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "2",
+          "start_time": "09:20",
+          "end_time": "10:10",
+          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "3",
+          "start_time": "10:20",
+          "end_time": "11:10",
+          "subject": "ฟิสิกส์ (ว32204)",
+          "teacher": "จันทร์",
+          "roomname": "747"
+        },
+        {
+          "period": "4",
+          "start_time": "11:10",
+          "end_time": "12:00",
+          "subject": "ฟิสิกส์ (ว32204)",
+          "teacher": "จันทร์",
+          "roomname": "747"
+        },
+        {
+          "period": "5",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "subject": "พักกลางวัน",
+          "teacher": "-",
+          "roomname": "-"
+        },
+        {
+          "period": "6",
+          "start_time": "13:00",
+          "end_time": "13:50",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "7",
+          "start_time": "13:50",
+          "end_time": "14:40",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "8",
+          "start_time": "14:40",
+          "end_time": "15:30",
+          "subject": "คอมพิวเตอร์ (ว32102)",
+          "teacher": "ธิติภัทร",
+          "roomname": "747"
+        }
+      ]
     },
     {
       "day": "Wednesday",
-      "period": "1",
-      "start_time": "08:30",
-      "end_time": "09:20",
-      "subject": "เคมี (ว31222)",
-      "teacher": "พัชณีย์",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "2",
-      "start_time": "09:20",
-      "end_time": "10:10",
-      "subject": "เคมี (ว31222)",
-      "teacher": "พัชณีย์",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "3",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "subject": "คณิตศาสตร์ (ค31102)",
-      "teacher": "ศริยา",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "4",
-      "start_time": "11:10",
-      "end_time": "12:00",
-      "subject": "คณิตศาสตร์ (ค31102)",
-      "teacher": "ศริยา",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "5",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "subject": "Lunch Break",
-      "teacher": "-",
-      "roomname": "โรงอาหาร"
-    },
-    {
-      "day": "Wednesday",
-      "period": "6",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "subject": "ชีวะ (ว31242)",
-      "teacher": "ศิรินันท์",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "7",
-      "start_time": "13:50",
-      "end_time": "14:40",
-      "subject": "สังคม (ส31102)",
-      "teacher": "พิศพิศุทธ์",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "8",
-      "start_time": "14:40",
-      "end_time": "15:30",
-      "subject": "Club Activities",
-      "teacher": "-",
-      "roomname": "748"
-    },
-    {
-      "day": "Wednesday",
-      "period": "9",
-      "start_time": "15:30",
-      "end_time": "16:20",
-      "subject": "แนะแนว (ก31907)",
-      "teacher": "สุกัญญา",
-      "roomname": "748"
+      "periods": [
+        {
+          "period": "1",
+          "start_time": "08:30",
+          "end_time": "09:20",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "2",
+          "start_time": "09:20",
+          "end_time": "10:10",
+          "subject": "อังกฤษ (อ32266)",
+          "teacher": "กิตติมา",
+          "roomname": "747"
+        },
+        {
+          "period": "3",
+          "start_time": "10:20",
+          "end_time": "11:10",
+          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "teacher": "Joel",
+          "roomname": "235"
+        },
+        {
+          "period": "4",
+          "start_time": "11:10",
+          "end_time": "12:00",
+          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "teacher": "Joel",
+          "roomname": "747"
+        },
+        {
+          "period": "5",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "subject": "พักกลางวัน",
+          "teacher": "-",
+          "roomname": "-"
+        },
+        {
+          "period": "6",
+          "start_time": "13:00",
+          "end_time": "13:50",
+          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "7",
+          "start_time": "13:50",
+          "end_time": "14:40",
+          "subject": "คณิตศาสตร์เพิ่มเติม (ค32202)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "8",
+          "start_time": "14:40",
+          "end_time": "15:30",
+          "subject": "กิจกรรมชุมนุม",
+          "teacher": "-",
+          "roomname": "-"
+        }
+      ]
     },
     {
       "day": "Thursday",
-      "period": "1",
-      "start_time": "08:30",
-      "end_time": "09:20",
-      "subject": "ชีวะ (ว31242)",
-      "teacher": "ศิรินันท์",
-      "roomname": "748"
-    },
-    {
-      "day": "Thursday",
-      "period": "2",
-      "start_time": "09:20",
-      "end_time": "10:10",
-      "subject": "ชีวะ (ว31242)",
-      "teacher": "ศิรินันท์",
-      "roomname": "748"
-    },
-    {
-      "day": "Thursday",
-      "period": "3",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "subject": "ฟิสิกส์ (ว31202)",
-      "teacher": "อรนุช",
-      "roomname": "748"
-    },
-    {
-      "day": "Thursday",
-      "period": "4",
-      "start_time": "11:10",
-      "end_time": "12:00",
-      "subject": "ฟิสิกส์ (ว31202)",
-      "teacher": "อรนุช",
-      "roomname": "748"
-    },
-    {
-      "day": "Thursday",
-      "period": "5",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "subject": "Lunch Break",
-      "teacher": "-",
-      "roomname": "โรงอาหาร"
-    },
-    {
-      "day": "Thursday",
-      "period": "6",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "subject": "คอมพิวเตอร์ (ว31084)",
-      "teacher": "ธิติภัทร",
-      "roomname": "748"
-    },
-    {
-      "day": "Thursday",
-      "period": "7",
-      "start_time": "13:50",
-      "end_time": "14:40",
-      "subject": "คอมพิวเตอร์ (ว31084)",
-      "teacher": "ธิติภัทร",
-      "roomname": "748"
-    },
-    {
-      "day": "Thursday",
-      "period": "8",
-      "start_time": "14:40",
-      "end_time": "15:30",
-      "subject": "ภาษาต่างประเทศ (ต31202)",
-      "teacher": "-",
-      "roomname": "-"
-    },
-    {
-      "day": "Friday",
-      "period": "1",
-      "start_time": "08:30",
-      "end_time": "09:20",
-      "subject": "ค31202",
-      "teacher": "ศริยา",
-      "roomname": "748"
+      "periods": [
+        {
+          "period": "1",
+          "start_time": "08:30",
+          "end_time": "09:20",
+          "subject": "เคมี (ว32244)",
+          "teacher": "พัชณีย์",
+          "roomname": "747"
+        },
+        {
+          "period": "2",
+          "start_time": "09:20",
+          "end_time": "10:10",
+          "subject": "เคมี (ว32244)",
+          "teacher": "พัชณีย์",
+          "roomname": "747"
+        },
+        {
+          "period": "3",
+          "start_time": "10:20",
+          "end_time": "11:10",
+          "subject": "ฟิสิกส์ (ว32102)",
+          "teacher": "อัจฉรา",
+          "roomname": "747"
+        },
+        {
+          "period": "4",
+          "start_time": "11:10",
+          "end_time": "12:00",
+          "subject": "ชีววิทยา (ว32224)",
+          "teacher": "ญานามัย",
+          "roomname": "747"
+        },
+        {
+          "period": "5",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "subject": "พักกลางวัน",
+          "teacher": "-",
+          "roomname": "-"
+        },
+        {
+          "period": "6",
+          "start_time": "13:00",
+          "end_time": "13:50",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "CT33"
+        },
+        {
+          "period": "7",
+          "start_time": "13:50",
+          "end_time": "14:40",
+          "subject": "คณิตศาสตร์ (ค32102)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "CT33"
+        },
+        {
+          "period": "8",
+          "start_time": "14:40",
+          "end_time": "15:30",
+          "subject": "คอมพิวเตอร์ (ว32086)",
+          "teacher": "ธิติภัทร",
+          "roomname": "CT24"
+        },
+        {
+          "period": "9",
+          "start_time": "15:30",
+          "end_time": "16:20",
+          "subject": "คอมพิวเตอร์ (ว32086)",
+          "teacher": "ธิติภัทร",
+          "roomname": "CT24"
+        }
+      ]
     },
     {
       "day": "Friday",
-      "period": "2",
-      "start_time": "09:20",
-      "end_time": "10:10",
-      "subject": "ภาษาไทย (ท31102)",
-      "teacher": "บัวสวรรค์",
-      "roomname": "748"
-    },
-    {
-      "day": "Friday",
-      "period": "3",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "subject": "สุขศึกษา/พละศึกษา (พ31102)",
-      "teacher": "ปวิชญา",
-      "roomname": "748"
-    },
-    {
-      "day": "Friday",
-      "period": "4",
-      "start_time": "11:10",
-      "end_time": "12:00",
-      "subject": "นาฏศิลป์ (ศ31102)",
-      "teacher": "พรชัย",
-      "roomname": "331"
-    },
-    {
-      "day": "Friday",
-      "period": "5",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "subject": "Lunch Break",
-      "teacher": "-",
-      "roomname": "โรงอาหาร"
-    },
-    {
-      "day": "Friday",
-      "period": "6",
-      "start_time": "13:00",
-      "end_time": "13:50",
-      "subject": "อังกฤษ (อ31102)",
-      "teacher": "ภัทรา",
-      "roomname": "748"
-    },
-    {
-      "day": "Friday",
-      "period": "7",
-      "start_time": "13:50",
-      "end_time": "14:40",
-      "subject": "ดาราศาสตร์ (ว31103)",
-      "teacher": "อมรฤทธิ์",
-      "roomname": "748"
-    },
-    {
-      "day": "Friday",
-      "period": "8",
-      "start_time": "14:40",
-      "end_time": "15:30",
-      "subject": "ป้องกันทุจริต H.R.",
-      "teacher": "-",
-      "roomname": "748"
-    },
-    {
-      "day": "Friday",
-      "period": "9",
-      "start_time": "15:30",
-      "end_time": "16:20",
-      "subject": "กิจกรรมสาธารณะประโยชน์",
-      "teacher": "-",
-      "roomname": "748"
+      "periods": [
+        {
+          "period": "1",
+          "start_time": "08:30",
+          "end_time": "09:20",
+          "subject": "ภาษาไทย",
+          "teacher": "5/13-15",
+          "roomname": "747"
+        },
+        {
+          "period": "2",
+          "start_time": "09:20",
+          "end_time": "10:10",
+          "subject": "เคมี (ว32244)",
+          "teacher": "พัชณีย์",
+          "roomname": "747"
+        },
+        {
+          "period": "3",
+          "start_time": "10:20",
+          "end_time": "11:10",
+          "subject": "ชีววิทยา (ว32224)",
+          "teacher": "ญานามัย",
+          "roomname": "125"
+        },
+        {
+          "period": "4",
+          "start_time": "11:10",
+          "end_time": "12:00",
+          "subject": "ชีววิทยา (ว32224)",
+          "teacher": "ญานามัย",
+          "roomname": "125"
+        },
+        {
+          "period": "5",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "subject": "พักกลางวัน",
+          "teacher": "-",
+          "roomname": "-"
+        },
+        {
+          "period": "6",
+          "start_time": "13:00",
+          "end_time": "13:50",
+          "subject": "ชีววิทยาเพิ่มเติม (ว32104)",
+          "teacher": "ญานามัย",
+          "roomname": "747"
+        },
+        {
+          "period": "7",
+          "start_time": "13:50",
+          "end_time": "14:40",
+          "subject": "คณิตศาสตร์ (ค32103)",
+          "teacher": "อัจฉราภรณ์",
+          "roomname": "747"
+        },
+        {
+          "period": "8",
+          "start_time": "14:40",
+          "end_time": "15:30",
+          "subject": "H.R.",
+          "teacher": "ครูอัจฉรา",
+          "roomname": "747"
+        },
+        {
+          "period": "9",
+          "start_time": "15:30",
+          "end_time": "16:20",
+          "subject": "กิจกรรมสาธารณประโยชน์",
+          "teacher": "-",
+          "roomname": "-"
+        }
+      ]
     }
   ]
 }
